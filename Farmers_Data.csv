@@ -1,0 +1,501 @@
+﻿farmer_id,name,state,district,village,latitude,longitude,crop,variety,quantity_kg,grade,harvest_date,expected_price
+F001,Naveen,Andhra Pradesh,Guntur,Tenali,28.128,75.2171,Cotton,Bt Cotton,200,A,07-08-2026,68.53
+F002,Vijay,Karnataka,Bengaluru Rural,Angondhalli,22.7975,81.6292,Rice,Basmati,600,B,05-09-2026,28.98
+F003,Kavitha,Uttar Pradesh,Lucknow,Malihabad,25.2969,75.4309,Wheat,PBW-343,400,A,10-08-2026,21.72
+F004,Sunita,Karnataka,Mysuru,Hunsur,28.7905,75.1032,Groundnut,TMV-2,50,B,04-09-2026,52.5
+F005,Kavitha,Andhra Pradesh,Krishna,Machilipatnam,27.317,86.1308,Onion,Local,1000,A,19-08-2026,34.7
+F006,Ravi,Punjab,Amritsar,Rayya,29.1064,83.0725,Sugarcane,Co-86032,300,A,12-09-2026,3.27
+F007,Suresh,Andhra Pradesh,Guntur,Tenali,13.3315,78.54,Wheat,Local,400,A,10-09-2026,25.51
+F008,Kavitha,Maharashtra,Pune,Shirur,15.4229,83.1761,Maize,Local,100,A,06-09-2026,23.26
+F009,Kavitha,Andhra Pradesh,Krishna,Machilipatnam,21.3609,86.5695,Cotton,Bt Cotton,200,B,04-09-2026,60.25
+F010,Ravi,Punjab,Ludhiana,Khanna,12.0196,83.5267,Potato,Local,100,B,08-08-2026,13.53
+F011,Ashok,Karnataka,Mysuru,Hunsur,8.7526,84.0901,Groundnut,TMV-2,600,A,05-09-2026,67.22
+F012,Krishna,Tamil Nadu,Madurai,Usilampatti,27.7688,77.6874,Onion,Nashik Red,400,A,01-08-2026,34.08
+F013,Ramesh,Maharashtra,Nagpur,Kamptee,25.6298,81.425,Cotton,Bt Cotton,150,A,11-08-2026,65.79
+F014,Manjunath,Tamil Nadu,Madurai,Usilampatti,13.7992,81.943,Tomato,Local,300,C,20-08-2026,23.27
+F015,Ravi,Karnataka,Belagavi,Gokak,12.1328,81.3874,Onion,Bellary Red,150,A,31-08-2026,33.94
+F016,Lakshmi,Uttar Pradesh,Meerut,Kharkhoda,18.1382,81.2461,Rice,Local,250,A,12-09-2026,38
+F017,Vijay,Maharashtra,Pune,Baramati,10.0618,82.8354,Sugarcane,Co-86032,800,B,07-09-2026,3.22
+F018,Savitri,Karnataka,Bengaluru Rural,Hoskote,11.4109,87.0972,Onion,Bellary Red,200,A,01-09-2026,19.28
+F019,Santosh,Tamil Nadu,Madurai,Melur,17.8187,80.5383,Chilli,Local,200,A,12-09-2026,85.86
+F020,Naveen,Karnataka,Belagavi,Athani,12.6846,80.2806,Onion,Local,400,B,07-08-2026,19.97
+F021,Ramesh,Maharashtra,Nashik,Sinnar,22.8472,81.5682,Rice,Basmati,500,B,05-09-2026,26.96
+F022,Kavitha,Karnataka,Bengaluru Rural,Devanahalli,12.122,74.0302,Maize,Local,500,A,26-08-2026,23.41
+F023,Santosh,Punjab,Amritsar,Tarn Taran,21.242,81.5907,Maize,Local,150,A,14-08-2026,23.81
+F024,Ganesh,Punjab,Ludhiana,Khanna,29.6371,75.1216,Groundnut,TMV-2,600,C,03-09-2026,53.15
+F025,Naveen,Karnataka,Belagavi,Chikodi,21.5794,82.6713,Rice,Sona Masuri,100,C,06-09-2026,29.92
+F026,Rajesh,Andhra Pradesh,Krishna,Gudivada,23.2772,78.2,Rice,Local,1200,A,17-08-2026,32.92
+F027,Vijay,Karnataka,Bengaluru Rural,Nelamangala,29.0317,86.3321,Groundnut,Local,100,B,02-09-2026,55.3
+F028,Ashok,Punjab,Amritsar,Ajnala,23.193,81.7644,Chilli,Local,800,C,11-09-2026,91.74
+F029,Ashok,Karnataka,Bengaluru Rural,Hoskote,13.1339,78.8003,Onion,Local,1200,B,18-08-2026,20.64
+F030,Rekha,Andhra Pradesh,Krishna,Gudivada,15.8382,75.8315,Cotton,Bt Cotton,100,B,18-08-2026,55.88
+F031,Suresh,Maharashtra,Nagpur,Hingna,23.7024,76.0868,Potato,Local,600,A,05-08-2026,21.45
+F032,Lakshmi,Punjab,Ludhiana,Samrala,13.1217,77.4934,Wheat,HD-2967,250,A,03-08-2026,27.19
+F033,Rajesh,Punjab,Amritsar,Rayya,9.0453,84.3119,Wheat,HD-2967,150,C,12-08-2026,27.05
+F034,Shiva,Uttar Pradesh,Meerut,Mawana,13.3935,85.4322,Wheat,PBW-343,100,A,03-08-2026,26.87
+F035,Mahesh,Punjab,Amritsar,Ajnala,10.0273,84.8266,Rice,Basmati,1000,A,22-08-2026,30.57
+F036,Rajesh,Andhra Pradesh,Krishna,Gudivada,21.6246,78.8396,Tomato,Local,250,A,17-08-2026,18.84
+F037,Santosh,Uttar Pradesh,Meerut,Mawana,28.8627,81.5383,Groundnut,Local,250,A,28-08-2026,50.03
+F038,Sunita,Andhra Pradesh,Guntur,Narasaraopet,27.1563,84.0766,Maize,Hybrid,1000,C,09-09-2026,19.88
+F039,Santosh,Tamil Nadu,Madurai,Usilampatti,23.1284,79.308,Sugarcane,Local,1200,A,09-08-2026,3.19
+F040,Geetha,Maharashtra,Nagpur,Katol,17.9575,82.1198,Cotton,Local,600,B,20-08-2026,60.74
+F041,Ravi,Punjab,Amritsar,Tarn Taran,14.7433,83.294,Chilli,Guntur Sannam,600,A,11-08-2026,99.53
+F042,Manjunath,Punjab,Ludhiana,Khanna,18.953,85.8963,Cotton,Bt Cotton,200,A,03-08-2026,59.9
+F043,Lakshmi,Uttar Pradesh,Lucknow,Malihabad,28.1385,86.0462,Maize,Local,400,A,11-09-2026,22.13
+F044,Deepak,Uttar Pradesh,Meerut,Sardhana,26.1312,83.3461,Potato,Local,50,B,08-08-2026,16.56
+F045,Vijay,Tamil Nadu,Madurai,Usilampatti,18.9428,77.6287,Groundnut,TMV-2,600,A,11-08-2026,64.87
+F046,Manjunath,Andhra Pradesh,Krishna,Gudivada,15.8886,86.5024,Rice,Sona Masuri,500,A,19-08-2026,29.69
+F047,Prakash,Maharashtra,Pune,Baramati,20.4374,79.8208,Maize,Hybrid,1200,A,27-08-2026,20.45
+F048,Naveen,Uttar Pradesh,Lucknow,Malihabad,17.0797,86.483,Groundnut,TMV-2,500,A,23-08-2026,55.97
+F049,Ganesh,Tamil Nadu,Coimbatore,Mettupalayam,23.4411,79.6604,Rice,Sona Masuri,400,A,25-08-2026,31.72
+F050,Shiva,Uttar Pradesh,Meerut,Kharkhoda,22.6405,75.8998,Potato,Kufri Jyoti,400,B,12-09-2026,12.27
+F051,Naveen,Maharashtra,Pune,Shirur,16.8408,84.5281,Maize,Local,200,A,22-08-2026,22.57
+F052,Suresh,Punjab,Ludhiana,Samrala,10.0096,87.402,Tomato,Arka Rakshak,600,A,23-08-2026,22.93
+F053,Meena,Karnataka,Bengaluru Rural,Devanahalli,20.9073,77.0515,Tomato,Arka Rakshak,150,A,31-08-2026,32.73
+F054,Kavitha,Punjab,Amritsar,Ajnala,28.9355,82.0612,Groundnut,Local,150,C,07-08-2026,61.57
+F055,Savitri,Uttar Pradesh,Meerut,Sardhana,21.7091,75.6948,Groundnut,Local,100,B,20-08-2026,67.01
+F056,Naveen,Karnataka,Mysuru,Periyapatna,17.7413,80.8628,Maize,Local,100,B,22-08-2026,18.08
+F057,Pooja,Punjab,Amritsar,Rayya,26.2804,81.5344,Wheat,Local,150,B,11-09-2026,22.16
+F058,Kavitha,Uttar Pradesh,Lucknow,Mohanlalganj,18.7236,82.5446,Sugarcane,Co-86032,100,A,29-08-2026,3.24
+F059,Rekha,Punjab,Ludhiana,Samrala,27.867,83.8166,Sugarcane,Co-86032,500,A,17-08-2026,3.34
+F060,Meena,Tamil Nadu,Coimbatore,Sulur,13.7871,80.6653,Rice,Basmati,200,B,01-09-2026,36.1
+F061,Krishna,Uttar Pradesh,Lucknow,Malihabad,21.2942,80.6256,Onion,Nashik Red,200,A,16-08-2026,21.12
+F062,Rajesh,Punjab,Amritsar,Rayya,13.5718,84.098,Potato,Local,300,B,18-08-2026,15.07
+F063,Sunita,Karnataka,Belagavi,Athani,29.9854,81.3449,Wheat,HD-2967,200,B,18-08-2026,25.8
+F064,Deepak,Karnataka,Bengaluru Rural,Hoskote,14.5348,87.6401,Rice,Sona Masuri,150,A,15-09-2026,35.68
+F065,Rekha,Punjab,Ludhiana,Jagraon,15.9955,87.517,Chilli,Guntur Sannam,50,B,31-08-2026,88.72
+F066,Sunita,Uttar Pradesh,Meerut,Sardhana,11.7823,81.8798,Maize,Local,100,B,13-09-2026,18.32
+F067,Shiva,Karnataka,Bengaluru Rural,Angondhalli,19.9966,80.3072,Potato,Local,800,B,09-09-2026,14.26
+F068,Ashok,Punjab,Amritsar,Tarn Taran,13.0713,76.9544,Groundnut,Local,800,C,07-08-2026,68.95
+F069,Vijay,Karnataka,Bengaluru Rural,Devanahalli,21.5638,78.0776,Wheat,PBW-343,100,A,27-08-2026,23.6
+F070,Prakash,Punjab,Amritsar,Rayya,22.2513,83.2566,Chilli,Guntur Sannam,1000,A,17-08-2026,107.27
+F071,Santosh,Uttar Pradesh,Meerut,Kharkhoda,12.1503,78.3066,Rice,Local,150,C,10-08-2026,26.43
+F072,Manjunath,Tamil Nadu,Madurai,Usilampatti,19.5104,80.9131,Onion,Nashik Red,1200,A,26-08-2026,33.85
+F073,Ashok,Tamil Nadu,Coimbatore,Mettupalayam,21.1544,87.311,Sugarcane,Local,50,A,13-09-2026,3.84
+F074,Pooja,Punjab,Ludhiana,Khanna,26.4134,87.5668,Chilli,Local,250,A,07-09-2026,86.15
+F075,Deepak,Punjab,Amritsar,Tarn Taran,23.0768,79.6063,Sugarcane,Co-86032,150,A,14-09-2026,3.5
+F076,Deepak,Karnataka,Mysuru,Nanjangud,26.6484,74.0161,Sugarcane,Local,300,A,26-08-2026,3.86
+F077,Deepak,Uttar Pradesh,Lucknow,Malihabad,25.2198,76.8498,Rice,Local,300,B,01-09-2026,37.51
+F078,Ramesh,Maharashtra,Nashik,Sinnar,24.1152,78.3505,Chilli,Guntur Sannam,50,C,08-09-2026,107.96
+F079,Krishna,Tamil Nadu,Madurai,Melur,19.4643,84.0324,Rice,Basmati,500,C,11-09-2026,41.64
+F080,Anitha,Andhra Pradesh,Krishna,Gudivada,28.7811,81.1154,Chilli,Local,200,A,10-08-2026,83.02
+F081,Anitha,Karnataka,Mysuru,Hunsur,21.2583,83.2392,Sugarcane,Local,50,A,20-08-2026,3.84
+F082,Naveen,Uttar Pradesh,Lucknow,Mohanlalganj,13.7537,79.3616,Sugarcane,Local,500,C,13-08-2026,3.98
+F083,Krishna,Karnataka,Mysuru,Periyapatna,19.3972,74.5183,Chilli,Local,400,C,11-09-2026,118.85
+F084,Anitha,Tamil Nadu,Madurai,Melur,17.5195,83.1669,Chilli,Guntur Sannam,600,C,01-08-2026,103.35
+F085,Rajesh,Karnataka,Mysuru,Hunsur,27.4055,79.3201,Sugarcane,Local,1000,A,22-08-2026,3.85
+F086,Lakshmi,Andhra Pradesh,Krishna,Machilipatnam,24.9289,80.0756,Groundnut,Local,200,B,19-08-2026,69.95
+F087,Naveen,Andhra Pradesh,Guntur,Narasaraopet,9.7346,79.0185,Wheat,PBW-343,250,C,03-08-2026,22.59
+F088,Savitri,Maharashtra,Pune,Daund,22.1336,77.3716,Maize,Hybrid,150,A,09-09-2026,23.23
+F089,Shiva,Maharashtra,Pune,Shirur,23.4074,76.2117,Cotton,Local,250,B,30-08-2026,73.02
+F090,Kavitha,Punjab,Amritsar,Rayya,27.2734,75.4931,Maize,Local,500,B,13-08-2026,24
+F091,Suresh,Tamil Nadu,Madurai,Usilampatti,23.5876,84.4254,Cotton,Bt Cotton,1000,A,01-08-2026,66.32
+F092,Ashok,Tamil Nadu,Madurai,Usilampatti,23.4108,84.093,Rice,Local,300,A,13-08-2026,37.42
+F093,Santosh,Andhra Pradesh,Guntur,Tenali,10.4829,78.1315,Tomato,Hybrid PKM-1,500,A,24-08-2026,34.11
+F094,Pooja,Uttar Pradesh,Meerut,Sardhana,14.1533,85.5457,Wheat,PBW-343,300,B,18-08-2026,26.64
+F095,Deepak,Punjab,Amritsar,Ajnala,24.4328,87.7192,Chilli,Guntur Sannam,150,B,15-08-2026,111.61
+F096,Geetha,Punjab,Ludhiana,Samrala,23.2915,82.1838,Tomato,Hybrid PKM-1,600,A,24-08-2026,32.8
+F097,Geetha,Punjab,Ludhiana,Jagraon,21.9218,83.0671,Rice,Sona Masuri,50,B,05-09-2026,31.56
+F098,Deepak,Uttar Pradesh,Lucknow,Mohanlalganj,11.0547,77.2872,Onion,Local,50,C,20-08-2026,34.92
+F099,Ravi,Maharashtra,Nashik,Sinnar,22.9083,85.6717,Sugarcane,Local,800,B,10-08-2026,3.89
+F100,Deepak,Uttar Pradesh,Lucknow,Malihabad,10.6858,83.5995,Sugarcane,Co-86032,500,A,16-08-2026,3.86
+F101,Ramesh,Andhra Pradesh,Krishna,Machilipatnam,13.1663,82.9529,Maize,Local,200,C,30-08-2026,18.55
+F102,Rajesh,Karnataka,Mysuru,Nanjangud,13.2509,86.1757,Wheat,PBW-343,200,A,05-09-2026,21.66
+F103,Mahesh,Maharashtra,Nagpur,Kamptee,27.5619,75.8452,Cotton,Bt Cotton,150,B,12-08-2026,57.2
+F104,Mahesh,Maharashtra,Nagpur,Hingna,24.9046,80.6674,Tomato,Local,250,A,27-08-2026,29.57
+F105,Suresh,Tamil Nadu,Coimbatore,Mettupalayam,18.5769,87.4964,Potato,Kufri Jyoti,800,A,12-09-2026,17.21
+F106,Anitha,Uttar Pradesh,Lucknow,Mohanlalganj,15.5865,76.0767,Onion,Nashik Red,1200,C,05-08-2026,32.99
+F107,Geetha,Punjab,Amritsar,Tarn Taran,23.9391,85.9391,Groundnut,TMV-2,500,B,28-08-2026,51.98
+F108,Rajesh,Tamil Nadu,Coimbatore,Mettupalayam,24.5515,78.3757,Chilli,Guntur Sannam,400,A,30-08-2026,83.92
+F109,Anitha,Andhra Pradesh,Krishna,Gudivada,10.6244,84.3431,Wheat,PBW-343,500,A,06-08-2026,20.75
+F110,Santosh,Tamil Nadu,Coimbatore,Sulur,29.2049,79.9211,Potato,Local,1000,A,23-08-2026,20.74
+F111,Mahesh,Karnataka,Mysuru,Periyapatna,19.1082,85.8618,Cotton,Local,100,B,14-08-2026,58.09
+F112,Ashok,Tamil Nadu,Madurai,Melur,22.6394,74.3676,Cotton,Bt Cotton,400,B,09-09-2026,67.27
+F113,Ashok,Andhra Pradesh,Krishna,Machilipatnam,12.4909,76.0055,Wheat,Local,1200,B,22-08-2026,22.81
+F114,Santosh,Uttar Pradesh,Meerut,Sardhana,15.9997,79.1807,Tomato,Local,1200,B,25-08-2026,27.24
+F115,Shiva,Punjab,Ludhiana,Khanna,23.0627,80.7993,Wheat,HD-2967,800,A,06-08-2026,22.18
+F116,Sunita,Uttar Pradesh,Lucknow,Malihabad,21.549,81.3771,Potato,Kufri Jyoti,300,A,19-08-2026,18.78
+F117,Lakshmi,Karnataka,Bengaluru Rural,Nelamangala,25.3115,78.0523,Groundnut,Local,50,A,14-08-2026,65.35
+F118,Mahesh,Karnataka,Mysuru,Periyapatna,20.7919,83.3527,Maize,Hybrid,150,A,15-09-2026,19.38
+F119,Meena,Karnataka,Mysuru,Periyapatna,21.1667,82.0276,Tomato,Hybrid PKM-1,50,A,05-08-2026,36.97
+F120,Mahesh,Andhra Pradesh,Krishna,Gudivada,22.0988,85.6484,Onion,Nashik Red,50,C,11-08-2026,31.03
+F121,Rajesh,Karnataka,Mysuru,Nanjangud,15.326,78.7532,Rice,Sona Masuri,800,A,06-08-2026,32.92
+F122,Anitha,Maharashtra,Pune,Daund,29.5809,83.0362,Onion,Bellary Red,600,A,23-08-2026,22.02
+F123,Shiva,Maharashtra,Pune,Baramati,29.4284,82.7913,Cotton,Bt Cotton,150,B,11-09-2026,56.51
+F124,Mahesh,Tamil Nadu,Madurai,Usilampatti,26.0193,82.2799,Sugarcane,Co-86032,500,A,29-08-2026,3.63
+F125,Ravi,Tamil Nadu,Coimbatore,Mettupalayam,27.5135,85.9741,Chilli,Local,50,A,19-08-2026,64.6
+F126,Anitha,Tamil Nadu,Madurai,Usilampatti,15.5736,80.6588,Groundnut,Local,500,C,06-09-2026,63.04
+F127,Krishna,Karnataka,Mysuru,Nanjangud,18.1307,80.1519,Sugarcane,Co-86032,600,B,03-08-2026,3.25
+F128,Rajesh,Tamil Nadu,Coimbatore,Mettupalayam,9.652,82.8324,Sugarcane,Local,400,A,22-08-2026,3.68
+F129,Manjunath,Karnataka,Mysuru,Nanjangud,21.7594,76.1052,Potato,Local,250,A,12-09-2026,21.64
+F130,Anitha,Tamil Nadu,Coimbatore,Mettupalayam,16.7869,85.0833,Cotton,Local,150,B,06-08-2026,61.19
+F131,Prakash,Andhra Pradesh,Guntur,Narasaraopet,16.0181,84.7262,Potato,Local,50,A,12-08-2026,21.51
+F132,Rajesh,Maharashtra,Pune,Baramati,27.941,74.5285,Onion,Nashik Red,100,B,04-09-2026,31.7
+F133,Shiva,Tamil Nadu,Coimbatore,Sulur,26.299,76.3175,Maize,Hybrid,150,A,14-09-2026,22.63
+F134,Pooja,Karnataka,Mysuru,Hunsur,13.7617,87.5184,Rice,Sona Masuri,800,A,29-08-2026,29.68
+F135,Prakash,Maharashtra,Nashik,Dindori,17.7105,76.2688,Groundnut,TMV-2,500,B,25-08-2026,60.06
+F136,Lakshmi,Tamil Nadu,Coimbatore,Mettupalayam,24.1508,81.2227,Tomato,Arka Rakshak,500,C,05-09-2026,38.55
+F137,Mahesh,Punjab,Ludhiana,Khanna,28.5311,85.4338,Cotton,Local,600,A,28-08-2026,56.83
+F138,Meena,Karnataka,Mysuru,Nanjangud,9.1201,87.0316,Maize,Local,200,A,06-08-2026,20.25
+F139,Shiva,Andhra Pradesh,Krishna,Machilipatnam,11.5534,83.8775,Wheat,HD-2967,250,C,31-08-2026,25.57
+F140,Sunita,Tamil Nadu,Coimbatore,Pollachi,21.8954,79.9256,Tomato,Hybrid PKM-1,200,B,05-09-2026,38.68
+F141,Ravi,Maharashtra,Nashik,Niphad,10.9389,86.6721,Tomato,Local,400,B,09-09-2026,28.06
+F142,Ganesh,Tamil Nadu,Coimbatore,Sulur,16.262,81.9893,Potato,Kufri Jyoti,1200,A,28-08-2026,12.02
+F143,Geetha,Andhra Pradesh,Guntur,Narasaraopet,17.09,80.5819,Onion,Bellary Red,600,B,02-09-2026,26.08
+F144,Rajesh,Uttar Pradesh,Lucknow,Mohanlalganj,25.473,84.2926,Tomato,Hybrid PKM-1,100,A,12-09-2026,31.82
+F145,Anitha,Maharashtra,Pune,Shirur,23.7986,82.8443,Potato,Local,1000,A,13-09-2026,16.65
+F146,Kavitha,Karnataka,Belagavi,Gokak,15.4431,78.3411,Tomato,Hybrid PKM-1,200,A,13-08-2026,37.49
+F147,Mahesh,Tamil Nadu,Madurai,Usilampatti,15.8023,75.7427,Tomato,Arka Rakshak,200,A,04-08-2026,37.05
+F148,Manjunath,Uttar Pradesh,Lucknow,Mohanlalganj,26.0404,77.7341,Maize,Local,150,A,01-09-2026,20.2
+F149,Ravi,Andhra Pradesh,Krishna,Machilipatnam,23.0402,78.2909,Maize,Hybrid,600,A,07-08-2026,18.48
+F150,Suresh,Andhra Pradesh,Krishna,Machilipatnam,18.0687,82.9526,Chilli,Local,500,A,23-08-2026,96.89
+F151,Ashok,Karnataka,Belagavi,Athani,9.1851,85.8814,Maize,Local,600,B,13-09-2026,18.96
+F152,Shiva,Uttar Pradesh,Meerut,Sardhana,9.2125,76.1481,Onion,Local,1000,A,25-08-2026,33.99
+F153,Ramesh,Punjab,Amritsar,Tarn Taran,14.6312,87.4473,Onion,Bellary Red,150,B,26-08-2026,21.29
+F154,Meena,Andhra Pradesh,Guntur,Narasaraopet,13.2205,82.5663,Potato,Local,600,A,17-08-2026,19.04
+F155,Rajesh,Uttar Pradesh,Meerut,Sardhana,10.4314,83.547,Wheat,HD-2967,500,A,15-09-2026,23.56
+F156,Mahesh,Andhra Pradesh,Krishna,Machilipatnam,23.9048,76.4373,Potato,Local,250,C,15-09-2026,19.1
+F157,Deepak,Tamil Nadu,Coimbatore,Pollachi,21.0901,80.5437,Rice,Basmati,200,B,02-08-2026,32.22
+F158,Manjunath,Maharashtra,Nagpur,Kamptee,25.4216,85.5268,Onion,Nashik Red,400,C,31-08-2026,25.51
+F159,Savitri,Maharashtra,Nashik,Dindori,26.7392,81.7182,Onion,Nashik Red,500,B,23-08-2026,17.57
+F160,Mahesh,Maharashtra,Pune,Shirur,15.5985,83.9306,Potato,Kufri Jyoti,100,B,20-08-2026,13.65
+F161,Krishna,Tamil Nadu,Madurai,Melur,15.1621,81.4687,Cotton,Bt Cotton,1000,C,18-08-2026,57.5
+F162,Ramesh,Andhra Pradesh,Guntur,Tenali,28.8265,74.5767,Wheat,PBW-343,800,B,08-09-2026,22.7
+F163,Sunita,Karnataka,Bengaluru Rural,Hoskote,22.2976,78.0554,Rice,Local,400,B,02-08-2026,34.96
+F164,Rajesh,Uttar Pradesh,Meerut,Kharkhoda,17.6437,80.5022,Maize,Local,500,A,04-08-2026,18.95
+F165,Lakshmi,Tamil Nadu,Coimbatore,Mettupalayam,10.836,77.3843,Sugarcane,Local,400,A,24-08-2026,3.51
+F166,Ganesh,Punjab,Amritsar,Ajnala,17.699,87.4776,Wheat,HD-2967,50,A,25-08-2026,26.91
+F167,Shiva,Punjab,Amritsar,Ajnala,10.4811,79.5054,Wheat,Local,600,A,20-08-2026,23.98
+F168,Deepak,Maharashtra,Pune,Daund,22.8937,80.5882,Sugarcane,Co-86032,50,A,08-09-2026,3.88
+F169,Prakash,Karnataka,Bengaluru Rural,Nelamangala,17.3128,81.9839,Wheat,Local,1200,A,26-08-2026,22.93
+F170,Kavitha,Punjab,Amritsar,Ajnala,11.1138,87.6512,Maize,Local,600,A,09-09-2026,22.08
+F171,Rajesh,Punjab,Amritsar,Rayya,9.4967,75.9185,Sugarcane,Co-86032,200,B,26-08-2026,3.5
+F172,Sunita,Uttar Pradesh,Lucknow,Malihabad,30.2935,84.3505,Groundnut,Local,300,C,21-08-2026,53.25
+F173,Sunita,Tamil Nadu,Madurai,Usilampatti,10.9113,79.8316,Groundnut,TMV-2,500,B,24-08-2026,56.62
+F174,Kavitha,Andhra Pradesh,Guntur,Narasaraopet,22.3386,82.6763,Cotton,Bt Cotton,1200,A,31-08-2026,58.41
+F175,Prakash,Maharashtra,Nagpur,Kamptee,17.7132,79.7814,Tomato,Arka Rakshak,1200,A,02-08-2026,27.7
+F176,Shiva,Uttar Pradesh,Lucknow,Malihabad,16.7901,87.3936,Wheat,PBW-343,200,B,12-09-2026,23.83
+F177,Sunita,Tamil Nadu,Madurai,Usilampatti,13.4471,87.6207,Cotton,Local,200,C,18-08-2026,66.16
+F178,Kavitha,Punjab,Ludhiana,Jagraon,21.1165,81.6047,Chilli,Local,500,A,18-08-2026,77.27
+F179,Deepak,Punjab,Ludhiana,Samrala,24.9414,76.9958,Tomato,Hybrid PKM-1,1200,A,29-08-2026,32.43
+F180,Vijay,Punjab,Amritsar,Ajnala,28.4141,77.1594,Onion,Bellary Red,1200,B,16-08-2026,16.02
+F181,Naveen,Karnataka,Bengaluru Rural,Nelamangala,20.6078,87.0074,Sugarcane,Local,100,B,09-08-2026,3.01
+F182,Deepak,Andhra Pradesh,Krishna,Gudivada,10.4681,82.0379,Rice,Sona Masuri,300,A,04-08-2026,43.16
+F183,Sunita,Andhra Pradesh,Guntur,Tenali,12.5989,84.486,Maize,Hybrid,50,C,26-08-2026,22.73
+F184,Krishna,Karnataka,Bengaluru Rural,Hoskote,19.3661,87.1398,Groundnut,Local,300,A,11-09-2026,60.87
+F185,Sunita,Uttar Pradesh,Lucknow,Malihabad,12.5964,84.3127,Onion,Nashik Red,150,B,11-09-2026,20.15
+F186,Pooja,Tamil Nadu,Coimbatore,Pollachi,10.5985,87.7436,Groundnut,TMV-2,400,B,06-08-2026,58.02
+F187,Ramesh,Punjab,Ludhiana,Khanna,15.1428,84.1204,Cotton,Local,200,A,18-08-2026,74.08
+F188,Meena,Punjab,Amritsar,Rayya,23.5936,86.9235,Rice,Basmati,1000,A,20-08-2026,28.19
+F189,Mahesh,Punjab,Ludhiana,Jagraon,18.5095,87.8437,Cotton,Local,800,A,09-08-2026,64.56
+F190,Savitri,Uttar Pradesh,Lucknow,Malihabad,20.1198,79.065,Rice,Local,800,C,06-08-2026,35.51
+F191,Pooja,Karnataka,Bengaluru Rural,Devanahalli,23.4665,84.0369,Groundnut,Local,150,A,03-09-2026,58.84
+F192,Sunita,Karnataka,Belagavi,Gokak,20.7935,83.4187,Tomato,Hybrid PKM-1,150,B,30-08-2026,30.41
+F193,Suresh,Andhra Pradesh,Guntur,Narasaraopet,16.0796,74.8926,Cotton,Bt Cotton,1200,A,05-08-2026,55.91
+F194,Kavitha,Karnataka,Mysuru,Nanjangud,22.7094,79.8851,Cotton,Local,150,B,11-09-2026,74.57
+F195,Deepak,Uttar Pradesh,Lucknow,Mohanlalganj,16.1509,76.4986,Onion,Bellary Red,1000,C,09-08-2026,28.07
+F196,Vijay,Uttar Pradesh,Meerut,Kharkhoda,20.4778,81.4471,Rice,Basmati,50,C,30-08-2026,38.47
+F197,Ramesh,Maharashtra,Nashik,Sinnar,23.0243,82.6089,Wheat,Local,200,C,08-08-2026,20.26
+F198,Kavitha,Maharashtra,Pune,Baramati,9.5709,84.3676,Onion,Bellary Red,50,A,13-09-2026,29.07
+F199,Savitri,Uttar Pradesh,Meerut,Kharkhoda,28.6607,82.0655,Rice,Basmati,150,B,19-08-2026,29.68
+F200,Santosh,Tamil Nadu,Madurai,Melur,9.8411,87.2793,Cotton,Bt Cotton,1000,B,27-08-2026,61.01
+F201,Naveen,Maharashtra,Nagpur,Katol,25.7877,78.4623,Maize,Local,50,C,11-09-2026,22.03
+F202,Suresh,Uttar Pradesh,Meerut,Mawana,24.0667,85.2809,Maize,Hybrid,600,A,15-08-2026,19.8
+F203,Mahesh,Tamil Nadu,Madurai,Usilampatti,10.2395,80.297,Potato,Kufri Jyoti,400,A,14-08-2026,15.3
+F204,Savitri,Karnataka,Belagavi,Athani,27.7197,76.6343,Rice,Basmati,250,A,08-09-2026,37.06
+F205,Santosh,Andhra Pradesh,Guntur,Narasaraopet,12.6805,84.3807,Rice,Sona Masuri,250,C,01-08-2026,29.24
+F206,Geetha,Uttar Pradesh,Meerut,Kharkhoda,14.7273,80.5275,Groundnut,Local,400,C,05-09-2026,56.43
+F207,Rajesh,Punjab,Amritsar,Tarn Taran,15.5451,76.8438,Sugarcane,Local,500,A,31-08-2026,3.76
+F208,Anitha,Uttar Pradesh,Meerut,Kharkhoda,21.2411,79.8461,Rice,Local,150,A,05-09-2026,43.7
+F209,Santosh,Maharashtra,Nashik,Niphad,25.2939,80.8407,Maize,Hybrid,500,B,13-09-2026,20.03
+F210,Geetha,Andhra Pradesh,Krishna,Gudivada,28.6718,81.5899,Wheat,PBW-343,300,A,04-09-2026,23.91
+F211,Anitha,Karnataka,Belagavi,Chikodi,22.3754,74.9516,Onion,Bellary Red,50,B,27-08-2026,17.75
+F212,Deepak,Karnataka,Bengaluru Rural,Nelamangala,23.0043,74.2202,Sugarcane,Co-86032,800,B,09-09-2026,3.91
+F213,Ganesh,Tamil Nadu,Madurai,Melur,26.3895,83.4365,Tomato,Arka Rakshak,1200,A,19-08-2026,18.38
+F214,Kavitha,Karnataka,Bengaluru Rural,Devanahalli,17.2317,79.2227,Rice,Basmati,800,B,23-08-2026,30.35
+F215,Manjunath,Uttar Pradesh,Meerut,Kharkhoda,27.3808,84.6342,Rice,Sona Masuri,1000,B,06-08-2026,38.07
+F216,Rajesh,Uttar Pradesh,Lucknow,Mohanlalganj,19.4969,80.0747,Potato,Local,50,B,14-09-2026,13.71
+F217,Manjunath,Tamil Nadu,Coimbatore,Sulur,18.961,74.6519,Tomato,Local,200,C,14-09-2026,37.53
+F218,Manjunath,Andhra Pradesh,Krishna,Machilipatnam,26.5552,85.4926,Wheat,Local,50,C,07-09-2026,21.15
+F219,Meena,Punjab,Ludhiana,Jagraon,25.1234,75.9593,Rice,Local,400,B,04-09-2026,31.63
+F220,Kavitha,Andhra Pradesh,Guntur,Narasaraopet,25.4181,87.368,Tomato,Local,400,A,05-08-2026,25.49
+F221,Ashok,Punjab,Ludhiana,Jagraon,18.0007,83.5157,Cotton,Local,500,A,05-09-2026,73.82
+F222,Santosh,Uttar Pradesh,Meerut,Kharkhoda,24.1569,82.8746,Cotton,Bt Cotton,1200,A,18-08-2026,58.08
+F223,Ganesh,Uttar Pradesh,Lucknow,Mohanlalganj,14.4349,75.8551,Onion,Local,50,C,29-08-2026,22.2
+F224,Ramesh,Uttar Pradesh,Lucknow,Mohanlalganj,25.7577,86.0921,Onion,Local,100,A,06-08-2026,26.94
+F225,Anitha,Punjab,Amritsar,Tarn Taran,12.2308,79.3302,Onion,Bellary Red,600,C,16-08-2026,26.44
+F226,Rekha,Punjab,Amritsar,Tarn Taran,19.1531,75.0769,Chilli,Guntur Sannam,100,A,18-08-2026,85.27
+F227,Kavitha,Maharashtra,Nagpur,Katol,17.2052,85.7826,Chilli,Guntur Sannam,500,A,20-08-2026,60.41
+F228,Rajesh,Punjab,Amritsar,Tarn Taran,15.412,87.504,Maize,Hybrid,250,A,14-09-2026,19.21
+F229,Deepak,Punjab,Amritsar,Rayya,29.0055,76.7972,Rice,Sona Masuri,400,A,26-08-2026,32.3
+F230,Naveen,Maharashtra,Nagpur,Katol,14.9093,83.6997,Tomato,Arka Rakshak,500,C,14-08-2026,27.65
+F231,Ravi,Andhra Pradesh,Krishna,Machilipatnam,16.7938,80.2869,Cotton,Bt Cotton,250,B,15-09-2026,63.46
+F232,Vijay,Uttar Pradesh,Lucknow,Mohanlalganj,28.6168,75.5312,Potato,Kufri Jyoti,300,B,04-09-2026,17.94
+F233,Naveen,Andhra Pradesh,Krishna,Machilipatnam,29.7698,78.6424,Groundnut,Local,800,C,13-09-2026,62.93
+F234,Kavitha,Karnataka,Bengaluru Rural,Angondhalli,21.1552,80.2409,Cotton,Bt Cotton,600,B,05-09-2026,66.61
+F235,Sunita,Uttar Pradesh,Meerut,Mawana,29.1949,75.9835,Tomato,Hybrid PKM-1,100,A,06-08-2026,20.55
+F236,Suresh,Punjab,Amritsar,Ajnala,18.4538,74.9404,Potato,Local,300,A,29-08-2026,19.22
+F237,Naveen,Andhra Pradesh,Guntur,Tenali,20.642,78.6339,Sugarcane,Co-86032,1000,B,16-08-2026,3.52
+F238,Savitri,Uttar Pradesh,Meerut,Mawana,22.0104,76.7625,Wheat,HD-2967,1000,B,26-08-2026,20.23
+F239,Mahesh,Uttar Pradesh,Lucknow,Malihabad,26.0891,81.5164,Rice,Basmati,250,B,05-08-2026,36.55
+F240,Kavitha,Punjab,Ludhiana,Samrala,15.3949,79.4409,Onion,Nashik Red,1000,C,03-09-2026,34.32
+F241,Manjunath,Tamil Nadu,Coimbatore,Mettupalayam,15.0438,82.6028,Sugarcane,Local,800,A,13-09-2026,3.71
+F242,Anitha,Andhra Pradesh,Guntur,Narasaraopet,19.7381,79.8553,Onion,Local,250,A,24-08-2026,28.87
+F243,Sunita,Tamil Nadu,Madurai,Usilampatti,12.3112,76.3361,Wheat,Local,1000,B,11-09-2026,27.45
+F244,Krishna,Maharashtra,Pune,Shirur,26.4348,87.4936,Chilli,Guntur Sannam,300,C,01-09-2026,68.19
+F245,Vijay,Andhra Pradesh,Krishna,Gudivada,20.9388,85.1423,Chilli,Local,1200,B,01-09-2026,70.04
+F246,Krishna,Punjab,Ludhiana,Samrala,25.496,80.9344,Rice,Local,250,A,30-08-2026,36.31
+F247,Naveen,Karnataka,Belagavi,Chikodi,18.2101,77.0596,Cotton,Local,600,B,03-08-2026,70.2
+F248,Lakshmi,Karnataka,Belagavi,Athani,10.4136,86.1141,Rice,Sona Masuri,50,A,23-08-2026,42.24
+F249,Prakash,Maharashtra,Pune,Daund,11.5632,76.8927,Groundnut,TMV-2,1200,B,28-08-2026,53.32
+F250,Krishna,Karnataka,Belagavi,Gokak,14.938,82.0183,Potato,Local,800,B,21-08-2026,21.79
+F251,Rajesh,Andhra Pradesh,Guntur,Tenali,11.4192,76.0474,Maize,Hybrid,250,C,09-08-2026,22.21
+F252,Manjunath,Maharashtra,Nagpur,Hingna,18.4438,82.8708,Chilli,Guntur Sannam,800,B,10-09-2026,84.85
+F253,Mahesh,Uttar Pradesh,Lucknow,Mohanlalganj,18.5859,83.298,Chilli,Local,300,B,06-08-2026,103.86
+F254,Savitri,Karnataka,Belagavi,Gokak,15.9306,82.0911,Rice,Sona Masuri,200,A,21-08-2026,41.57
+F255,Shiva,Uttar Pradesh,Lucknow,Malihabad,28.9475,76.2118,Tomato,Local,1000,B,30-08-2026,18.36
+F256,Ashok,Karnataka,Mysuru,Nanjangud,16.4296,75.1539,Wheat,PBW-343,250,A,18-08-2026,20.75
+F257,Prakash,Andhra Pradesh,Guntur,Tenali,10.5064,75.3326,Maize,Local,1200,B,15-08-2026,20.58
+F258,Naveen,Uttar Pradesh,Meerut,Sardhana,16.0586,75.6883,Groundnut,Local,600,B,01-08-2026,50.16
+F259,Kavitha,Andhra Pradesh,Guntur,Narasaraopet,16.5864,78.1896,Onion,Local,400,A,07-08-2026,17.06
+F260,Geetha,Maharashtra,Nagpur,Katol,18.1822,84.114,Wheat,HD-2967,600,B,09-09-2026,25.2
+F261,Mahesh,Andhra Pradesh,Guntur,Narasaraopet,11.2095,84.2201,Groundnut,TMV-2,200,A,07-08-2026,52.8
+F262,Meena,Uttar Pradesh,Lucknow,Malihabad,24.366,77.9889,Rice,Sona Masuri,1000,A,05-09-2026,37.02
+F263,Vijay,Karnataka,Belagavi,Gokak,9.7005,86.5708,Rice,Local,800,B,26-08-2026,30.91
+F264,Rajesh,Uttar Pradesh,Lucknow,Malihabad,8.7655,79.0554,Rice,Sona Masuri,1000,B,03-09-2026,42.77
+F265,Manjunath,Maharashtra,Nashik,Dindori,25.4481,74.2337,Maize,Local,600,B,31-08-2026,23.73
+F266,Kavitha,Karnataka,Mysuru,Nanjangud,25.3764,79.9301,Tomato,Local,400,B,10-09-2026,33.68
+F267,Deepak,Karnataka,Belagavi,Athani,12.9703,85.3128,Potato,Kufri Jyoti,250,A,06-08-2026,17.11
+F268,Shiva,Punjab,Amritsar,Rayya,10.3967,80.0828,Onion,Nashik Red,1200,A,16-08-2026,16.16
+F269,Krishna,Tamil Nadu,Coimbatore,Mettupalayam,19.4211,78.8539,Wheat,HD-2967,50,B,14-09-2026,20.09
+F270,Rajesh,Andhra Pradesh,Krishna,Machilipatnam,11.0972,86.5986,Sugarcane,Co-86032,1200,B,18-08-2026,3.73
+F271,Ganesh,Uttar Pradesh,Lucknow,Malihabad,27.4059,76.3363,Cotton,Bt Cotton,500,A,24-08-2026,56.11
+F272,Mahesh,Punjab,Ludhiana,Jagraon,8.7703,74.6437,Onion,Local,1200,B,03-08-2026,32.17
+F273,Rajesh,Uttar Pradesh,Meerut,Sardhana,13.9618,86.822,Tomato,Arka Rakshak,1200,B,27-08-2026,22.94
+F274,Kavitha,Punjab,Ludhiana,Jagraon,26.1954,87.7398,Sugarcane,Co-86032,600,B,04-08-2026,3.18
+F275,Santosh,Karnataka,Mysuru,Hunsur,14.9151,84.9831,Cotton,Local,100,B,01-08-2026,62.38
+F276,Naveen,Tamil Nadu,Coimbatore,Mettupalayam,13.8928,74.0893,Sugarcane,Local,200,B,04-09-2026,3.76
+F277,Krishna,Karnataka,Bengaluru Rural,Hoskote,24.4987,75.4553,Tomato,Hybrid PKM-1,50,B,25-08-2026,36.68
+F278,Meena,Maharashtra,Nashik,Sinnar,28.2403,81.2766,Tomato,Local,1200,A,03-08-2026,38.27
+F279,Naveen,Punjab,Amritsar,Rayya,10.1463,81.9495,Onion,Bellary Red,100,B,10-09-2026,31.4
+F280,Rekha,Andhra Pradesh,Guntur,Tenali,24.6778,78.4528,Cotton,Local,300,C,26-08-2026,69.01
+F281,Mahesh,Maharashtra,Pune,Baramati,15.4087,75.6903,Wheat,PBW-343,100,A,11-08-2026,23.6
+F282,Prakash,Maharashtra,Nashik,Sinnar,24.0035,82.4462,Chilli,Local,100,A,13-09-2026,78.25
+F283,Kavitha,Punjab,Ludhiana,Khanna,26.542,76.4341,Rice,Sona Masuri,400,B,13-09-2026,30.98
+F284,Kavitha,Uttar Pradesh,Meerut,Sardhana,30.1165,75.83,Chilli,Guntur Sannam,150,A,04-08-2026,109.82
+F285,Manjunath,Punjab,Ludhiana,Jagraon,22.7117,85.3302,Groundnut,TMV-2,100,A,05-08-2026,53.96
+F286,Ashok,Punjab,Ludhiana,Khanna,17.19,74.4128,Chilli,Guntur Sannam,150,C,28-08-2026,109.3
+F287,Sunita,Uttar Pradesh,Meerut,Mawana,22.1219,77.441,Rice,Basmati,250,A,10-08-2026,25.69
+F288,Geetha,Uttar Pradesh,Lucknow,Mohanlalganj,27.9624,81.3614,Tomato,Local,250,A,27-08-2026,22.39
+F289,Ganesh,Tamil Nadu,Coimbatore,Mettupalayam,19.5527,79.4373,Sugarcane,Local,600,B,23-08-2026,3.91
+F290,Ganesh,Karnataka,Mysuru,Periyapatna,25.3705,87.9945,Rice,Basmati,250,A,31-08-2026,35.59
+F291,Ganesh,Karnataka,Bengaluru Rural,Devanahalli,26.9629,85.8331,Cotton,Bt Cotton,200,B,25-08-2026,62.1
+F292,Pooja,Maharashtra,Nagpur,Hingna,20.8884,76.6353,Sugarcane,Co-86032,1200,B,06-09-2026,3.56
+F293,Ravi,Tamil Nadu,Madurai,Melur,20.0819,74.0096,Chilli,Guntur Sannam,100,A,08-09-2026,73.13
+F294,Krishna,Maharashtra,Pune,Shirur,11.6164,75.5529,Wheat,Local,50,A,07-09-2026,25.64
+F295,Geetha,Punjab,Ludhiana,Samrala,24.6117,80.1162,Maize,Hybrid,300,A,09-08-2026,23.86
+F296,Ganesh,Uttar Pradesh,Lucknow,Malihabad,24.6479,78.1232,Potato,Local,200,B,12-08-2026,15.78
+F297,Anitha,Andhra Pradesh,Guntur,Narasaraopet,20.9421,87.1136,Groundnut,Local,150,B,09-09-2026,54.42
+F298,Rajesh,Punjab,Ludhiana,Khanna,23.2405,84.21,Sugarcane,Local,150,B,06-08-2026,3.82
+F299,Shiva,Uttar Pradesh,Meerut,Mawana,24.3491,74.6741,Rice,Basmati,1200,A,17-08-2026,40.74
+F300,Geetha,Andhra Pradesh,Krishna,Machilipatnam,19.0488,86.0967,Maize,Local,400,A,25-08-2026,18.61
+F301,Kavitha,Andhra Pradesh,Guntur,Tenali,10.804,78.7853,Chilli,Guntur Sannam,50,A,21-08-2026,75.67
+F302,Geetha,Maharashtra,Nagpur,Kamptee,23.9991,80.0385,Potato,Kufri Jyoti,300,B,09-09-2026,20.93
+F303,Deepak,Maharashtra,Nagpur,Hingna,20.6905,86.958,Wheat,HD-2967,100,A,13-08-2026,23.27
+F304,Naveen,Punjab,Amritsar,Tarn Taran,11.879,79.0516,Rice,Basmati,50,A,05-09-2026,41.8
+F305,Lakshmi,Karnataka,Mysuru,Periyapatna,14.9199,75.1471,Groundnut,TMV-2,200,A,14-08-2026,53.42
+F306,Shiva,Punjab,Amritsar,Tarn Taran,27.9808,79.1716,Chilli,Local,100,B,25-08-2026,71.09
+F307,Manjunath,Karnataka,Mysuru,Hunsur,25.0492,83.3446,Chilli,Local,200,B,06-09-2026,63.7
+F308,Pooja,Andhra Pradesh,Krishna,Gudivada,17.7099,81.4972,Groundnut,Local,600,A,25-08-2026,66.37
+F309,Savitri,Tamil Nadu,Coimbatore,Mettupalayam,21.0668,81.2354,Cotton,Bt Cotton,400,C,15-09-2026,55.69
+F310,Naveen,Andhra Pradesh,Guntur,Tenali,17.8142,87.8359,Chilli,Guntur Sannam,150,C,13-08-2026,67.57
+F311,Rekha,Maharashtra,Nagpur,Kamptee,20.74,81.7288,Groundnut,TMV-2,300,C,05-08-2026,51.74
+F312,Lakshmi,Tamil Nadu,Madurai,Melur,21.3189,87.5076,Groundnut,TMV-2,100,A,10-08-2026,61.33
+F313,Rekha,Karnataka,Belagavi,Chikodi,21.8972,74.5245,Cotton,Local,400,A,11-09-2026,64.71
+F314,Rekha,Uttar Pradesh,Meerut,Kharkhoda,9.5844,80.6531,Groundnut,TMV-2,50,A,22-08-2026,63.81
+F315,Sunita,Punjab,Ludhiana,Samrala,29.8949,77.1914,Cotton,Local,250,B,14-09-2026,68.7
+F316,Pooja,Andhra Pradesh,Krishna,Gudivada,28.5955,79.7004,Cotton,Local,800,B,13-08-2026,63.83
+F317,Savitri,Tamil Nadu,Madurai,Melur,25.6714,81.34,Potato,Kufri Jyoti,100,A,02-09-2026,16.03
+F318,Shiva,Karnataka,Bengaluru Rural,Devanahalli,24.0019,77.8357,Rice,Basmati,200,A,04-08-2026,43.36
+F319,Mahesh,Tamil Nadu,Madurai,Melur,27.6506,82.2163,Tomato,Local,300,A,29-08-2026,21.91
+F320,Vijay,Punjab,Ludhiana,Samrala,25.6563,77.0005,Onion,Nashik Red,50,A,11-08-2026,32.08
+F321,Ravi,Andhra Pradesh,Guntur,Tenali,28.5533,83.0632,Cotton,Local,600,A,13-09-2026,55.18
+F322,Shiva,Karnataka,Bengaluru Rural,Hoskote,28.2006,85.9222,Groundnut,TMV-2,1200,C,11-09-2026,55.51
+F323,Deepak,Punjab,Ludhiana,Samrala,29.7627,85.7513,Cotton,Local,800,A,02-09-2026,74.99
+F324,Meena,Andhra Pradesh,Krishna,Gudivada,27.4528,77.6561,Onion,Nashik Red,100,A,18-08-2026,27.81
+F325,Ramesh,Andhra Pradesh,Krishna,Machilipatnam,15.5309,75.959,Wheat,PBW-343,200,C,08-09-2026,23.23
+F326,Rajesh,Andhra Pradesh,Krishna,Gudivada,30.3846,85.4242,Cotton,Local,400,A,03-08-2026,66.66
+F327,Rekha,Andhra Pradesh,Guntur,Narasaraopet,10.6473,75.7912,Sugarcane,Local,150,B,05-09-2026,3.18
+F328,Savitri,Andhra Pradesh,Guntur,Narasaraopet,28.0106,79.2036,Onion,Local,300,A,20-08-2026,23.41
+F329,Ashok,Punjab,Amritsar,Ajnala,28.0674,81.0067,Chilli,Guntur Sannam,1000,B,09-09-2026,64.27
+F330,Shiva,Uttar Pradesh,Lucknow,Mohanlalganj,21.0269,86.6927,Tomato,Local,150,C,22-08-2026,27
+F331,Prakash,Maharashtra,Nashik,Dindori,9.7763,80.3287,Wheat,HD-2967,500,A,12-08-2026,22.51
+F332,Ramesh,Maharashtra,Nagpur,Kamptee,17.9386,80.6836,Chilli,Guntur Sannam,150,B,10-09-2026,85.76
+F333,Vijay,Karnataka,Belagavi,Chikodi,23.3885,82.7736,Sugarcane,Co-86032,300,B,03-09-2026,3.19
+F334,Sunita,Maharashtra,Nagpur,Hingna,9.9363,74.6401,Cotton,Bt Cotton,100,A,07-09-2026,61.12
+F335,Ramesh,Uttar Pradesh,Lucknow,Mohanlalganj,28.4517,85.3681,Wheat,Local,500,A,13-08-2026,21.32
+F336,Suresh,Maharashtra,Pune,Daund,16.565,83.1076,Wheat,HD-2967,1200,A,02-09-2026,21.35
+F337,Lakshmi,Uttar Pradesh,Lucknow,Malihabad,11.0474,80.2204,Groundnut,Local,1000,A,02-08-2026,50.96
+F338,Rekha,Tamil Nadu,Madurai,Usilampatti,23.0566,83.2748,Wheat,HD-2967,1200,B,01-08-2026,22.41
+F339,Prakash,Tamil Nadu,Coimbatore,Mettupalayam,10.8378,76.7811,Onion,Bellary Red,1200,B,19-08-2026,17.28
+F340,Vijay,Punjab,Ludhiana,Samrala,23.6405,80.7293,Maize,Local,150,A,01-09-2026,23.46
+F341,Rekha,Karnataka,Bengaluru Rural,Angondhalli,10.1511,84.1301,Onion,Bellary Red,1000,A,06-08-2026,30.59
+F342,Ashok,Andhra Pradesh,Guntur,Narasaraopet,27.2495,79.043,Cotton,Local,500,A,12-08-2026,72.48
+F343,Shiva,Punjab,Amritsar,Rayya,12.2513,79.0054,Onion,Local,50,A,09-08-2026,28.27
+F344,Pooja,Tamil Nadu,Madurai,Melur,14.4803,79.4,Sugarcane,Local,150,A,26-08-2026,3.96
+F345,Savitri,Uttar Pradesh,Meerut,Sardhana,28.547,80.7574,Wheat,PBW-343,1200,A,11-08-2026,20.83
+F346,Pooja,Andhra Pradesh,Krishna,Machilipatnam,24.5001,86.4847,Groundnut,TMV-2,300,B,13-09-2026,67.6
+F347,Santosh,Uttar Pradesh,Meerut,Mawana,27.6033,81.3475,Chilli,Guntur Sannam,100,A,21-08-2026,60.74
+F348,Anitha,Tamil Nadu,Coimbatore,Sulur,23.1016,82.9797,Sugarcane,Co-86032,400,B,16-08-2026,3.48
+F349,Rekha,Tamil Nadu,Coimbatore,Pollachi,19.3163,77.3725,Wheat,PBW-343,500,C,11-08-2026,20.6
+F350,Pooja,Karnataka,Belagavi,Chikodi,26.1277,80.2734,Potato,Local,400,B,06-08-2026,16.59
+F351,Ravi,Uttar Pradesh,Lucknow,Malihabad,8.5037,75.2725,Chilli,Guntur Sannam,100,A,03-08-2026,93.43
+F352,Ravi,Tamil Nadu,Madurai,Melur,15.8034,84.7438,Chilli,Local,300,B,15-08-2026,110.66
+F353,Deepak,Uttar Pradesh,Lucknow,Mohanlalganj,22.4405,85.1988,Onion,Local,1000,A,22-08-2026,22.1
+F354,Prakash,Tamil Nadu,Madurai,Melur,17.5026,77.5601,Tomato,Local,500,A,15-09-2026,34.34
+F355,Ashok,Maharashtra,Pune,Shirur,9.523,82.8654,Rice,Sona Masuri,200,B,07-08-2026,40.14
+F356,Krishna,Tamil Nadu,Coimbatore,Mettupalayam,18.0218,82.1917,Chilli,Guntur Sannam,500,A,04-08-2026,93.19
+F357,Kavitha,Maharashtra,Nagpur,Katol,27.9193,81.0575,Wheat,PBW-343,150,A,12-09-2026,24.8
+F358,Krishna,Uttar Pradesh,Meerut,Mawana,21.7555,86.4101,Maize,Local,250,A,09-08-2026,18.83
+F359,Meena,Punjab,Amritsar,Rayya,16.0965,83.4132,Potato,Kufri Jyoti,200,A,15-09-2026,14.91
+F360,Deepak,Andhra Pradesh,Guntur,Narasaraopet,24.1227,83.4394,Onion,Nashik Red,600,A,06-09-2026,33.85
+F361,Ganesh,Punjab,Amritsar,Ajnala,12.8979,84.5026,Potato,Kufri Jyoti,50,A,04-08-2026,18.7
+F362,Ashok,Punjab,Amritsar,Ajnala,26.4086,75.4347,Tomato,Arka Rakshak,250,A,04-09-2026,18.71
+F363,Ashok,Andhra Pradesh,Guntur,Narasaraopet,16.8948,79.8319,Rice,Local,1200,A,12-09-2026,25.94
+F364,Geetha,Punjab,Ludhiana,Khanna,28.5527,83.8648,Cotton,Bt Cotton,800,C,29-08-2026,71.6
+F365,Lakshmi,Punjab,Ludhiana,Jagraon,29.6745,84.2911,Rice,Sona Masuri,500,A,13-09-2026,26.49
+F366,Suresh,Uttar Pradesh,Meerut,Mawana,18.7593,87.1249,Cotton,Local,150,A,17-08-2026,55.11
+F367,Meena,Maharashtra,Nashik,Dindori,21.0989,79.0132,Tomato,Arka Rakshak,800,B,20-08-2026,28.79
+F368,Prakash,Punjab,Ludhiana,Khanna,10.5228,77.0968,Potato,Kufri Jyoti,600,A,04-09-2026,17.37
+F369,Geetha,Andhra Pradesh,Krishna,Gudivada,30.4259,85.5316,Sugarcane,Local,200,C,09-09-2026,3.53
+F370,Kavitha,Karnataka,Bengaluru Rural,Hoskote,9.3773,86.3992,Chilli,Guntur Sannam,1000,B,09-09-2026,74.63
+F371,Sunita,Karnataka,Mysuru,Hunsur,19.6922,80.8153,Potato,Local,50,C,24-08-2026,17.14
+F372,Geetha,Andhra Pradesh,Guntur,Narasaraopet,22.2925,76.9509,Potato,Kufri Jyoti,100,A,04-09-2026,17.33
+F373,Anitha,Maharashtra,Nagpur,Hingna,29.1745,84.4565,Onion,Local,600,B,28-08-2026,27.93
+F374,Vijay,Karnataka,Mysuru,Periyapatna,20.7779,82.0495,Sugarcane,Co-86032,100,A,12-08-2026,3.79
+F375,Ravi,Punjab,Amritsar,Tarn Taran,20.2664,82.9799,Chilli,Local,400,A,25-08-2026,100.4
+F376,Manjunath,Karnataka,Belagavi,Athani,25.8116,78.2189,Tomato,Arka Rakshak,100,A,02-09-2026,20.33
+F377,Deepak,Punjab,Amritsar,Tarn Taran,17.1018,85.1648,Maize,Hybrid,500,A,15-08-2026,18.82
+F378,Deepak,Punjab,Ludhiana,Samrala,8.6107,82.3532,Sugarcane,Co-86032,600,C,10-08-2026,3.12
+F379,Anitha,Tamil Nadu,Coimbatore,Mettupalayam,28.4238,85.9204,Rice,Local,1200,C,23-08-2026,29.23
+F380,Deepak,Maharashtra,Pune,Baramati,27.2495,85.9194,Groundnut,TMV-2,200,A,12-09-2026,65.99
+F381,Geetha,Uttar Pradesh,Meerut,Mawana,15.7787,75.795,Onion,Nashik Red,100,A,07-09-2026,24.74
+F382,Anitha,Maharashtra,Pune,Shirur,23.0073,83.7084,Groundnut,Local,200,A,29-08-2026,56.57
+F383,Mahesh,Tamil Nadu,Madurai,Usilampatti,22.5984,77.8735,Maize,Hybrid,50,A,15-08-2026,22.27
+F384,Manjunath,Maharashtra,Nagpur,Katol,10.8943,83.0377,Sugarcane,Local,500,A,20-08-2026,3.49
+F385,Geetha,Punjab,Ludhiana,Jagraon,28.1263,85.8942,Rice,Sona Masuri,1200,C,05-08-2026,39.55
+F386,Anitha,Karnataka,Belagavi,Athani,20.3729,83.1547,Maize,Hybrid,50,B,04-09-2026,23.36
+F387,Vijay,Punjab,Amritsar,Ajnala,16.505,74.1483,Groundnut,TMV-2,150,A,02-09-2026,51.81
+F388,Pooja,Tamil Nadu,Coimbatore,Sulur,29.7902,84.3029,Wheat,Local,150,A,06-09-2026,25.28
+F389,Mahesh,Punjab,Ludhiana,Khanna,13.049,86.7082,Chilli,Guntur Sannam,100,A,15-08-2026,62.57
+F390,Santosh,Uttar Pradesh,Lucknow,Mohanlalganj,22.4385,77.8289,Tomato,Local,1000,A,15-09-2026,39.31
+F391,Krishna,Punjab,Ludhiana,Samrala,16.7792,86.7014,Maize,Local,800,B,05-08-2026,21.1
+F392,Rekha,Uttar Pradesh,Lucknow,Mohanlalganj,13.5598,81.2036,Chilli,Local,800,A,09-08-2026,86.39
+F393,Lakshmi,Maharashtra,Pune,Baramati,17.6215,78.6231,Wheat,Local,800,B,08-08-2026,25.29
+F394,Ganesh,Uttar Pradesh,Lucknow,Mohanlalganj,9.4492,82.0288,Rice,Local,150,B,27-08-2026,25.45
+F395,Savitri,Maharashtra,Nagpur,Katol,19.8661,79.6764,Tomato,Arka Rakshak,150,A,17-08-2026,38.29
+F396,Ravi,Andhra Pradesh,Guntur,Narasaraopet,12.2525,85.6251,Onion,Local,500,B,31-08-2026,32.35
+F397,Kavitha,Maharashtra,Nagpur,Kamptee,21.6237,74.9638,Groundnut,TMV-2,150,B,22-08-2026,68.45
+F398,Ganesh,Uttar Pradesh,Meerut,Sardhana,26.6833,82.4772,Tomato,Local,600,C,02-09-2026,33.06
+F399,Ashok,Uttar Pradesh,Meerut,Kharkhoda,20.3643,74.0168,Potato,Kufri Jyoti,100,A,09-08-2026,21.02
+F400,Mahesh,Andhra Pradesh,Krishna,Gudivada,19.1067,84.7614,Sugarcane,Co-86032,1200,B,15-08-2026,3.94
+F401,Prakash,Tamil Nadu,Coimbatore,Mettupalayam,27.7889,79.7211,Wheat,Local,500,B,06-08-2026,22.27
+F402,Naveen,Karnataka,Belagavi,Athani,13.0192,85.26,Tomato,Arka Rakshak,600,A,01-08-2026,26.25
+F403,Kavitha,Punjab,Ludhiana,Khanna,21.9614,87.8852,Maize,Local,250,C,28-08-2026,21.39
+F404,Meena,Maharashtra,Nashik,Dindori,30.2472,82.0871,Potato,Local,150,A,05-09-2026,16.84
+F405,Rajesh,Uttar Pradesh,Meerut,Kharkhoda,10.7061,81.1168,Onion,Bellary Red,200,A,14-09-2026,33.98
+F406,Vijay,Tamil Nadu,Coimbatore,Pollachi,18.0783,74.8971,Maize,Hybrid,100,B,31-08-2026,23.56
+F407,Ravi,Punjab,Ludhiana,Jagraon,19.9621,83.9625,Tomato,Arka Rakshak,400,C,26-08-2026,31.51
+F408,Krishna,Karnataka,Bengaluru Rural,Nelamangala,9.2394,82.3932,Chilli,Guntur Sannam,200,C,03-09-2026,77.16
+F409,Ashok,Andhra Pradesh,Guntur,Tenali,14.5706,79.5921,Tomato,Hybrid PKM-1,200,B,11-08-2026,19.91
+F410,Savitri,Uttar Pradesh,Lucknow,Malihabad,24.4751,81.8276,Potato,Kufri Jyoti,1200,B,06-08-2026,17.5
+F411,Lakshmi,Punjab,Amritsar,Tarn Taran,14.2444,79.6999,Rice,Local,200,A,26-08-2026,36.5
+F412,Meena,Tamil Nadu,Coimbatore,Sulur,26.3892,82.0485,Cotton,Local,100,B,17-08-2026,72.52
+F413,Kavitha,Uttar Pradesh,Lucknow,Mohanlalganj,19.1033,77.6095,Rice,Sona Masuri,500,B,07-09-2026,42.24
+F414,Kavitha,Andhra Pradesh,Guntur,Tenali,14.2937,78.0221,Sugarcane,Local,300,B,01-08-2026,3.7
+F415,Ashok,Andhra Pradesh,Krishna,Machilipatnam,14.4197,87.2597,Potato,Kufri Jyoti,500,A,14-08-2026,20.94
+F416,Ravi,Maharashtra,Nashik,Dindori,12.9609,77.4957,Rice,Basmati,1200,A,17-08-2026,29.14
+F417,Suresh,Punjab,Ludhiana,Khanna,25.3134,81.5806,Onion,Local,1000,C,01-09-2026,27.28
+F418,Suresh,Uttar Pradesh,Lucknow,Mohanlalganj,13.386,82.0733,Chilli,Local,500,A,02-09-2026,76.82
+F419,Krishna,Tamil Nadu,Madurai,Usilampatti,18.5583,75.6852,Potato,Kufri Jyoti,600,A,13-09-2026,19.76
+F420,Deepak,Uttar Pradesh,Lucknow,Malihabad,21.9811,77.6358,Tomato,Arka Rakshak,200,A,07-08-2026,25.16
+F421,Kavitha,Punjab,Ludhiana,Samrala,23.9157,79.2123,Chilli,Local,300,A,28-08-2026,72.63
+F422,Kavitha,Punjab,Amritsar,Ajnala,26.1899,81.7748,Groundnut,Local,800,B,07-08-2026,64.42
+F423,Deepak,Maharashtra,Pune,Daund,28.1519,82.8291,Wheat,Local,50,A,01-09-2026,21.08
+F424,Rekha,Andhra Pradesh,Krishna,Gudivada,23.6919,74.8405,Cotton,Local,600,C,04-08-2026,62.97
+F425,Lakshmi,Uttar Pradesh,Meerut,Mawana,14.1697,74.2777,Sugarcane,Local,300,A,05-09-2026,3.93
+F426,Manjunath,Punjab,Ludhiana,Jagraon,25.5444,80.257,Groundnut,Local,250,A,13-09-2026,60.21
+F427,Manjunath,Uttar Pradesh,Lucknow,Mohanlalganj,21.9708,79.6668,Wheat,HD-2967,1000,B,22-08-2026,23.37
+F428,Shiva,Karnataka,Bengaluru Rural,Hoskote,22.6822,77.7975,Rice,Sona Masuri,300,B,15-09-2026,30.35
+F429,Manjunath,Punjab,Amritsar,Tarn Taran,29.1896,83.8098,Wheat,HD-2967,50,A,16-08-2026,25.3
+F430,Manjunath,Maharashtra,Pune,Shirur,9.08,79.5582,Onion,Local,100,C,31-08-2026,25.97
+F431,Geetha,Karnataka,Mysuru,Periyapatna,13.9427,77.9785,Wheat,HD-2967,1000,C,25-08-2026,22.47
+F432,Rekha,Maharashtra,Pune,Daund,18.7783,86.1926,Wheat,HD-2967,50,B,21-08-2026,26.91
+F433,Geetha,Tamil Nadu,Madurai,Melur,27.8005,80.0897,Potato,Kufri Jyoti,800,B,10-09-2026,19.49
+F434,Krishna,Andhra Pradesh,Krishna,Gudivada,11.9258,74.1478,Chilli,Guntur Sannam,100,A,24-08-2026,84.73
+F435,Ravi,Maharashtra,Nashik,Sinnar,25.3491,85.1715,Chilli,Guntur Sannam,1200,C,31-08-2026,77.98
+F436,Kavitha,Maharashtra,Pune,Daund,12.0919,84.3196,Sugarcane,Co-86032,400,C,28-08-2026,3.39
+F437,Santosh,Uttar Pradesh,Meerut,Mawana,23.5621,77.9855,Onion,Nashik Red,1000,A,09-09-2026,31.15
+F438,Ravi,Tamil Nadu,Madurai,Usilampatti,22.09,77.8099,Rice,Basmati,150,A,08-08-2026,37.74
+F439,Meena,Uttar Pradesh,Meerut,Mawana,10.75,77.7687,Tomato,Local,50,C,02-08-2026,22.09
+F440,Mahesh,Uttar Pradesh,Meerut,Sardhana,25.786,80.9775,Onion,Local,50,A,22-08-2026,23.4
+F441,Rekha,Uttar Pradesh,Meerut,Mawana,18.8432,76.6907,Onion,Local,50,A,26-08-2026,16.43
+F442,Ashok,Uttar Pradesh,Meerut,Sardhana,24.6771,75.3154,Rice,Sona Masuri,500,A,03-08-2026,28.98
+F443,Pooja,Maharashtra,Nashik,Sinnar,20.5908,75.71,Cotton,Local,150,B,03-08-2026,69.89
+F444,Rekha,Andhra Pradesh,Krishna,Machilipatnam,18.0516,74.2109,Sugarcane,Co-86032,1000,A,08-08-2026,3.24
+F445,Manjunath,Tamil Nadu,Coimbatore,Mettupalayam,21.6167,79.1996,Rice,Basmati,50,B,14-09-2026,34.51
+F446,Deepak,Maharashtra,Pune,Shirur,16.3214,76.1549,Onion,Bellary Red,800,A,10-09-2026,16.2
+F447,Meena,Karnataka,Bengaluru Rural,Nelamangala,18.1518,76.7015,Rice,Sona Masuri,600,B,23-08-2026,41.11
+F448,Ganesh,Uttar Pradesh,Lucknow,Malihabad,23.8348,76.6569,Cotton,Bt Cotton,500,B,05-09-2026,60.89
+F449,Rekha,Tamil Nadu,Madurai,Usilampatti,20.185,80.2914,Chilli,Local,800,C,05-09-2026,69.62
+F450,Ravi,Tamil Nadu,Madurai,Usilampatti,22.1342,79.0971,Tomato,Arka Rakshak,600,A,12-08-2026,37.42
+F451,Ravi,Maharashtra,Nashik,Dindori,19.4461,81.7205,Onion,Bellary Red,600,B,13-08-2026,25.48
+F452,Suresh,Punjab,Amritsar,Tarn Taran,29.1316,76.5009,Sugarcane,Co-86032,100,B,05-08-2026,3.04
+F453,Rekha,Maharashtra,Pune,Shirur,20.0681,83.8184,Rice,Basmati,50,B,25-08-2026,38.16
+F454,Shiva,Karnataka,Mysuru,Nanjangud,28.9249,85.6491,Groundnut,Local,50,C,14-08-2026,63.11
+F455,Manjunath,Andhra Pradesh,Guntur,Narasaraopet,14.3479,74.5691,Potato,Local,300,B,04-08-2026,20.24
+F456,Savitri,Punjab,Ludhiana,Khanna,12.7486,83.1963,Potato,Kufri Jyoti,100,B,04-09-2026,15.85
+F457,Ganesh,Andhra Pradesh,Guntur,Narasaraopet,17.8956,75.4574,Onion,Bellary Red,800,A,30-08-2026,29.05
+F458,Mahesh,Tamil Nadu,Madurai,Usilampatti,20.6018,87.9559,Wheat,PBW-343,800,A,23-08-2026,27.22
+F459,Shiva,Uttar Pradesh,Lucknow,Mohanlalganj,28.8752,77.5572,Groundnut,Local,800,B,25-08-2026,65.31
+F460,Vijay,Uttar Pradesh,Lucknow,Malihabad,15.1405,78.2047,Tomato,Hybrid PKM-1,800,A,09-08-2026,39.86
+F461,Vijay,Maharashtra,Nashik,Niphad,14.3297,86.4548,Cotton,Bt Cotton,100,A,23-08-2026,58.12
+F462,Ganesh,Maharashtra,Nashik,Sinnar,24.4188,85.1007,Onion,Bellary Red,400,B,14-08-2026,29.69
+F463,Mahesh,Uttar Pradesh,Meerut,Kharkhoda,9.7303,84.7926,Cotton,Bt Cotton,1200,B,25-08-2026,56.57
+F464,Krishna,Uttar Pradesh,Lucknow,Malihabad,22.4083,74.7578,Rice,Local,1000,B,01-08-2026,37.68
+F465,Shiva,Karnataka,Mysuru,Periyapatna,23.32,87.9631,Groundnut,Local,300,B,15-08-2026,53.06
+F466,Kavitha,Tamil Nadu,Coimbatore,Pollachi,21.0717,74.6904,Maize,Local,400,A,22-08-2026,18.5
+F467,Savitri,Punjab,Ludhiana,Samrala,12.8584,79.5345,Potato,Local,1200,A,09-08-2026,16.81
+F468,Ashok,Maharashtra,Nagpur,Katol,28.831,75.2543,Potato,Kufri Jyoti,200,A,28-08-2026,15.23
+F469,Ravi,Uttar Pradesh,Lucknow,Mohanlalganj,15.206,87.8271,Sugarcane,Co-86032,300,A,11-09-2026,3.02
+F470,Suresh,Uttar Pradesh,Meerut,Mawana,27.2608,75.5732,Tomato,Local,200,B,10-08-2026,34.67
+F471,Santosh,Maharashtra,Nagpur,Kamptee,18.8662,78.6463,Cotton,Bt Cotton,300,B,08-08-2026,61.1
+F472,Ashok,Tamil Nadu,Coimbatore,Pollachi,23.2017,79.2725,Potato,Local,600,A,10-08-2026,18.95
+F473,Ramesh,Tamil Nadu,Coimbatore,Mettupalayam,9.6679,83.1666,Wheat,HD-2967,250,A,14-09-2026,24.94
+F474,Meena,Karnataka,Mysuru,Periyapatna,30.0554,81.1196,Cotton,Local,100,A,11-09-2026,62.73
+F475,Krishna,Karnataka,Mysuru,Hunsur,24.1743,74.5565,Groundnut,Local,150,A,30-08-2026,61.21
+F476,Krishna,Punjab,Amritsar,Tarn Taran,15.1512,87.9439,Maize,Hybrid,50,A,23-08-2026,20.13
+F477,Anitha,Punjab,Ludhiana,Jagraon,16.0193,79.4999,Cotton,Local,50,C,18-08-2026,59.51
+F478,Shiva,Karnataka,Belagavi,Gokak,15.3724,82.4752,Potato,Kufri Jyoti,400,A,10-08-2026,16.26
+F479,Krishna,Tamil Nadu,Coimbatore,Pollachi,15.298,83.8719,Wheat,PBW-343,600,B,13-08-2026,26.9
+F480,Anitha,Maharashtra,Nashik,Niphad,11.1045,78.4464,Groundnut,Local,300,A,04-09-2026,68.97
+F481,Lakshmi,Andhra Pradesh,Guntur,Narasaraopet,14.5235,84.9075,Maize,Local,250,A,10-09-2026,23.6
+F482,Manjunath,Maharashtra,Pune,Baramati,13.5801,74.3652,Groundnut,TMV-2,800,B,15-08-2026,61.93
+F483,Prakash,Andhra Pradesh,Krishna,Machilipatnam,19.3118,75.9252,Potato,Local,1200,B,12-08-2026,20.52
+F484,Shiva,Maharashtra,Pune,Shirur,25.1711,74.9259,Tomato,Hybrid PKM-1,400,A,12-09-2026,39.74
+F485,Kavitha,Tamil Nadu,Madurai,Usilampatti,26.6352,84.0828,Chilli,Guntur Sannam,400,A,03-08-2026,96.48
+F486,Santosh,Tamil Nadu,Coimbatore,Sulur,13.9059,81.5302,Onion,Nashik Red,500,B,03-08-2026,32.56
+F487,Ganesh,Karnataka,Belagavi,Gokak,25.5209,78.0028,Potato,Kufri Jyoti,200,A,26-08-2026,20.84
+F488,Savitri,Uttar Pradesh,Lucknow,Malihabad,19.5145,76.5168,Potato,Kufri Jyoti,500,B,29-08-2026,12.9
+F489,Shiva,Andhra Pradesh,Guntur,Narasaraopet,24.178,76.827,Maize,Local,500,A,30-08-2026,21.54
+F490,Meena,Karnataka,Mysuru,Hunsur,22.4496,75.1943,Wheat,PBW-343,1200,A,08-08-2026,25.65
+F491,Anitha,Uttar Pradesh,Meerut,Mawana,23.0097,76.1013,Potato,Local,50,B,22-08-2026,17.65
+F492,Prakash,Maharashtra,Nagpur,Kamptee,12.4753,86.5796,Maize,Local,250,B,29-08-2026,19.73
+F493,Prakash,Karnataka,Belagavi,Gokak,21.8756,80.9085,Tomato,Hybrid PKM-1,500,C,04-09-2026,35.76
+F494,Deepak,Tamil Nadu,Madurai,Usilampatti,20.5415,82.6767,Maize,Local,100,B,01-08-2026,19.47
+F495,Sunita,Maharashtra,Pune,Baramati,23.1739,85.7322,Wheat,HD-2967,1000,A,10-08-2026,26.83
+F496,Deepak,Punjab,Ludhiana,Khanna,23.7133,82.3296,Onion,Nashik Red,150,A,19-08-2026,27.22
+F497,Naveen,Maharashtra,Nashik,Dindori,28.2457,85.4837,Groundnut,TMV-2,50,A,20-08-2026,56.46
+F498,Prakash,Tamil Nadu,Coimbatore,Mettupalayam,17.6027,76.9378,Chilli,Guntur Sannam,100,B,18-08-2026,79.75
+F499,Ravi,Tamil Nadu,Coimbatore,Pollachi,30.1981,78.0206,Groundnut,Local,500,B,08-09-2026,68.68
+F500,Ganesh,Punjab,Amritsar,Rayya,22.4009,80.8951,Groundnut,TMV-2,150,B,01-09-2026,60.39

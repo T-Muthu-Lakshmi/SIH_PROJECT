@@ -1,0 +1,101 @@
+buyer_id,buyer_name,buyer_type,location,latitude,longitude,crop,required_quantity_kg,quality_required,offered_price_per_kg,order_date,valid_until,payment_rating,reliability_score
+B001,Balaji Agro Foods,Wholesaler,"Ranchi, Jharkhand",23.2766,85.2266,Wheat,3000,Grade A,41.57,2026-07-03,2026-07-11,2.7,64
+B002,Star Processing Ltd,Wholesaler,"Chandigarh, Punjab",30.643,76.8244,Carrot,2000,Grade B,35.21,2026-07-18,2026-07-25,4.4,60
+B003,Nataraj Agro Industries,Processor,"Jaipur, Rajasthan",26.809,75.9245,Banana,300,Grade A,32.1,2026-07-23,2026-08-21,4,52
+B004,Himalaya Wholesale Mart,Distributor,"Delhi, NCR",28.846,77.0661,Carrot,1000,Organic Certified,42.83,2026-07-24,2026-09-05,3,54
+B005,Sri Distributors,Retailer,"Mysuru, Karnataka",12.2326,76.5133,Cotton,300,Standard,27.51,2026-08-10,2026-09-09,2.9,72
+B006,Sunrise Distributors,Processor,"Raipur, Chhattisgarh",21.3824,81.674,Ginger,500,Export Quality,47.81,2026-07-11,2026-08-16,3.4,90
+B007,Nataraj Farm Fresh Pvt Ltd,Retailer,"Vijayawada, Andhra Pradesh",16.4535,80.7285,Onion,800,Grade A,51.23,2026-07-26,2026-08-19,2.7,86
+B008,Nataraj Fresh Produce Co.,Retailer,"Patna, Bihar",25.5939,85.253,Cauliflower,500,Premium,21.28,2026-08-05,2026-09-15,3.2,87
+B009,Royal Commodities,Distributor,"Kochi, Kerala",9.8898,76.4165,Rice,3000,Standard,19.09,2026-07-04,2026-07-18,2.9,60
+B010,Kaveri Agro Industries,Distributor,"Pune, Maharashtra",18.4858,73.8855,Cauliflower,3000,Premium,58.7,2026-07-01,2026-07-15,4.2,84
+B011,Deccan Mandi,Supermarket Chain,"Nagpur, Maharashtra",21.0293,79.0686,Cauliflower,200,Organic Certified,54.41,2026-07-17,2026-08-25,4.4,82
+B012,Krishna Foods Pvt Ltd,Supermarket Chain,"Lucknow, Uttar Pradesh",26.9492,80.9485,Soybean,500,Premium,49.31,2026-08-04,2026-09-13,4.8,88
+B013,Green Valley Wholesale Mart,Wholesaler,"Delhi, NCR",28.8328,77.2161,Chilli,800,Grade A,25.84,2026-08-06,2026-08-18,2.7,81
+B014,Om Supermart,Distributor,"Mysuru, Karnataka",12.1835,76.6873,Carrot,500,Premium,38.75,2026-08-08,2026-09-11,4.9,84
+B015,Deccan AgriTrade,Supermarket Chain,"Kolkata, West Bengal",22.6365,88.3336,Mango,2500,Export Quality,35.32,2026-07-16,2026-08-06,2.7,51
+B016,Vishnu Farm Fresh Pvt Ltd,Retailer,"Ludhiana, Punjab",30.8171,75.7286,Onion,800,Grade A,55.74,2026-07-22,2026-08-02,3.8,67
+B017,Kaveri Wholesale Mart,Retailer,"Chandigarh, Punjab",30.623,76.9101,Turmeric,5000,Standard,25.93,2026-07-31,2026-09-02,3,56
+B018,Fresh Agro Industries,Exporter,"Nashik, Maharashtra",20.1067,73.6561,Wheat,200,Standard,47.77,2026-07-07,2026-07-29,3,84
+B019,Prime Enterprises,Exporter,"Chennai, Tamil Nadu",13.0163,80.1956,Potato,2500,Export Quality,19.41,2026-08-04,2026-08-11,4.9,98
+B020,Golden Enterprises,Exporter,"Bhopal, Madhya Pradesh",23.2543,77.522,Onion,500,Standard,15.1,2026-07-25,2026-08-17,4.8,100
+B021,Prime Mandi,Exporter,"Raipur, Chhattisgarh",21.3886,81.7782,Carrot,2500,Grade B,23.55,2026-07-14,2026-07-24,3.9,84
+B022,Sri AgriTrade,Processor,"Mumbai, Maharashtra",18.941,72.8707,Okra,500,Grade A,58.24,2026-07-06,2026-07-24,2.7,54
+B023,Kaveri Foods Pvt Ltd,Retailer,"Kochi, Kerala",9.8172,76.3844,Cotton,5000,Export Quality,16.79,2026-07-06,2026-08-08,4.1,86
+B024,Star Fresh Produce Co.,Processor,"Kolkata, West Bengal",22.6235,88.3082,Sugarcane,2000,Grade B,45.23,2026-07-20,2026-08-25,3.3,98
+B025,Om Traders,Exporter,"Surat, Gujarat",21.3197,72.9799,Potato,3000,Grade B,37.76,2026-07-09,2026-08-07,4.7,65
+B026,Fresh Mandi,Retailer,"Nashik, Maharashtra",20.0976,73.8509,Ginger,3000,Grade A,45.05,2026-08-05,2026-08-31,4.8,56
+B027,Ganga Mandi,Wholesaler,"Delhi, NCR",28.7768,76.9991,Chilli,5000,Grade B,47.29,2026-07-14,2026-08-06,3.8,66
+B028,Sri Agro Foods,Supermarket Chain,"Coimbatore, Tamil Nadu",11.1156,76.819,Banana,500,Organic Certified,59.09,2026-07-11,2026-08-15,3.9,77
+B029,New Era Traders,Wholesaler,"Pune, Maharashtra",18.6539,73.914,Rice,3000,Grade A,52.56,2026-08-07,2026-09-18,2.9,58
+B030,Sri Mandi,Processor,"Mumbai, Maharashtra",19.1957,72.7907,Cotton,300,Premium,50.11,2026-07-27,2026-08-12,4.8,65
+B031,Annapurna Supermart,Retailer,"Coimbatore, Tamil Nadu",10.8742,77.0268,Banana,2000,Organic Certified,53.88,2026-07-16,2026-08-09,2.9,94
+B032,Krishna Agro Industries,Wholesaler,"Bhopal, Madhya Pradesh",23.1766,77.5076,Cauliflower,1500,Premium,51.92,2026-07-15,2026-08-05,2.6,62
+B033,Bharat Fresh Produce Co.,Processor,"Pune, Maharashtra",18.6605,73.7904,Okra,2000,Organic Certified,59.15,2026-08-04,2026-09-01,4.8,57
+B034,National Enterprises,Distributor,"Jaipur, Rajasthan",26.7739,75.8163,Mango,1500,Standard,42.28,2026-08-02,2026-08-16,3.5,86
+B035,Sunrise Mandi,Wholesaler,"Raipur, Chhattisgarh",21.2322,81.6356,Carrot,800,Premium,34.41,2026-07-22,2026-08-18,4.2,57
+B036,Himalaya Commodities,Processor,"Guwahati, Assam",26.0873,91.7087,Groundnut,1000,Export Quality,20.73,2026-07-27,2026-08-27,4.2,61
+B037,Laxmi Processing Ltd,Processor,"Kochi, Kerala",9.9456,76.1174,Chilli,800,Standard,50.36,2026-08-08,2026-09-04,3.7,78
+B038,Kaveri Exports,Distributor,"Bhopal, Madhya Pradesh",23.348,77.5505,Maize,300,Premium,38.2,2026-08-10,2026-09-07,2.7,98
+B039,Golden Distributors,Processor,"Ahmedabad, Gujarat",23.1145,72.4656,Onion,800,Standard,42.51,2026-07-05,2026-08-10,3.5,90
+B040,Vishnu Exports,Supermarket Chain,"Raipur, Chhattisgarh",21.2166,81.5995,Rice,200,Grade A,50.03,2026-07-15,2026-08-02,4.5,94
+B041,Star Wholesale Mart,Wholesaler,"Chandigarh, Punjab",30.6581,76.8839,Cauliflower,500,Standard,45.04,2026-08-05,2026-09-19,3.3,98
+B042,Prime Processing Ltd,Supermarket Chain,"Guwahati, Assam",26.1225,91.8583,Cauliflower,500,Organic Certified,53.77,2026-07-29,2026-08-21,4.4,90
+B043,National Supermart,Distributor,"Bhopal, Madhya Pradesh",23.2979,77.345,Potato,1000,Grade B,27.23,2026-07-21,2026-08-31,2.7,59
+B044,Golden Agro Industries,Supermarket Chain,"Hyderabad, Telangana",17.4469,78.356,Cabbage,1500,Export Quality,35.97,2026-07-04,2026-07-24,4.6,74
+B045,Deccan Processing Ltd,Supermarket Chain,"Bengaluru, Karnataka",13.0786,77.6743,Groundnut,2500,Grade A,57.42,2026-07-20,2026-08-20,4.6,76
+B046,New Era AgriTrade,Supermarket Chain,"Chandigarh, Punjab",30.8233,76.8987,Brinjal,800,Premium,34.61,2026-07-02,2026-08-02,3.3,93
+B047,Bharat AgriTrade,Retailer,"Nashik, Maharashtra",20.1234,73.934,Carrot,200,Standard,41.64,2026-07-02,2026-07-14,4.1,58
+B048,Sunrise Wholesale Mart,Processor,"Nagpur, Maharashtra",21.2242,79.0519,Cabbage,1000,Grade A,36.16,2026-08-04,2026-08-14,5,72
+B049,Balaji Traders,Wholesaler,"Ahmedabad, Gujarat",22.9323,72.4275,Rice,800,Grade B,36.31,2026-07-08,2026-08-20,4.9,79
+B050,Nataraj Mandi,Processor,"Chennai, Tamil Nadu",13.1145,80.4098,Wheat,500,Premium,19.86,2026-07-02,2026-07-28,3.9,74
+B051,Sunrise Agro Foods,Distributor,"Raipur, Chhattisgarh",21.3506,81.5525,Chilli,5000,Grade A,50.83,2026-08-06,2026-08-15,3.4,77
+B052,Kaveri Fresh Produce Co.,Wholesaler,"Guwahati, Assam",26.1888,91.59,Cabbage,2500,Grade A,34.51,2026-07-24,2026-08-29,4.3,77
+B053,Annapurna AgriTrade,Distributor,"Patna, Bihar",25.5251,85.2301,Carrot,2500,Standard,34.6,2026-08-07,2026-08-31,3.3,65
+B054,Om Mandi,Exporter,"Ahmedabad, Gujarat",23.0976,72.5924,Groundnut,1500,Grade A,37.24,2026-07-21,2026-08-08,3.7,72
+B055,National Fresh Produce Co.,Processor,"Surat, Gujarat",21.2306,72.764,Tomato,3000,Grade B,18.85,2026-07-27,2026-09-03,3.9,65
+B056,Nataraj Wholesale Mart,Supermarket Chain,"Raipur, Chhattisgarh",21.2486,81.7175,Potato,1000,Grade B,33.2,2026-07-16,2026-08-11,4.2,73
+B057,Metro Farm Fresh Pvt Ltd,Distributor,"Indore, Madhya Pradesh",22.6973,75.9315,Banana,1500,Organic Certified,35.42,2026-07-20,2026-08-12,3.1,96
+B058,Sunrise Fresh Produce Co.,Wholesaler,"Ranchi, Jharkhand",23.3549,85.3883,Maize,800,Grade B,48.24,2026-07-18,2026-08-31,4.9,83
+B059,Laxmi Mandi,Wholesaler,"Kolkata, West Bengal",22.5115,88.3222,Chilli,200,Organic Certified,39.04,2026-07-18,2026-07-27,4.9,85
+B060,United AgriTrade,Retailer,"Patna, Bihar",25.7046,85.1349,Tomato,5000,Premium,36.12,2026-07-29,2026-08-26,3,53
+B061,National Foods Pvt Ltd,Exporter,"Delhi, NCR",28.8007,77.0727,Potato,5000,Organic Certified,45.89,2026-07-10,2026-07-26,4.5,69
+B062,Om Exports,Wholesaler,"Chandigarh, Punjab",30.8126,76.8113,Ginger,800,Export Quality,32.12,2026-07-29,2026-08-24,4.7,77
+B063,United Processing Ltd,Distributor,"Mumbai, Maharashtra",19.1089,72.9497,Soybean,800,Premium,44.72,2026-07-11,2026-08-02,2.9,54
+B064,Annapurna Traders,Exporter,"Nashik, Maharashtra",20.0543,73.7808,Onion,800,Premium,46.81,2026-07-30,2026-08-10,4.2,66
+B065,Balaji Processing Ltd,Supermarket Chain,"Kolkata, West Bengal",22.5501,88.3773,Rice,1000,Grade B,18.21,2026-07-11,2026-08-06,4,86
+B066,United Wholesale Mart,Wholesaler,"Nashik, Maharashtra",20.0541,73.8497,Sugarcane,3000,Export Quality,37.22,2026-07-06,2026-08-20,2.6,77
+B067,Himalaya Fresh Produce Co.,Distributor,"Jaipur, Rajasthan",26.7702,75.706,Turmeric,5000,Grade A,59.98,2026-07-18,2026-08-30,2.6,98
+B068,Annapurna Wholesale Mart,Distributor,"Patna, Bihar",25.5768,85.071,Turmeric,2000,Organic Certified,51.64,2026-07-06,2026-08-12,3.4,71
+B069,Green Valley Distributors,Wholesaler,"Chennai, Tamil Nadu",13.0316,80.3288,Chilli,2000,Export Quality,16.65,2026-07-06,2026-08-02,3.1,57
+B070,Deccan Agro Industries,Distributor,"Bengaluru, Karnataka",13.0189,77.6074,Cabbage,200,Grade B,38.33,2026-08-09,2026-09-16,4.1,98
+B071,Sri Exports,Processor,"Chandigarh, Punjab",30.6226,76.7158,Brinjal,300,Grade A,58.79,2026-08-08,2026-08-30,4.3,69
+B072,New Era Agro Industries,Wholesaler,"Ahmedabad, Gujarat",23.1702,72.6953,Cauliflower,300,Organic Certified,52.45,2026-08-01,2026-08-26,3.8,67
+B073,Royal Foods Pvt Ltd,Exporter,"Bhopal, Madhya Pradesh",23.183,77.428,Groundnut,800,Export Quality,37.87,2026-07-09,2026-07-20,3.2,100
+B074,Royal Fresh Produce Co.,Distributor,"Jaipur, Rajasthan",27.0086,75.7222,Chilli,5000,Export Quality,59.95,2026-08-01,2026-08-17,3.6,80
+B075,Fresh Fresh Produce Co.,Distributor,"Mysuru, Karnataka",12.3088,76.626,Banana,800,Organic Certified,25.75,2026-07-25,2026-08-15,4.6,76
+B076,Sri Fresh Produce Co.,Supermarket Chain,"Bhopal, Madhya Pradesh",23.3215,77.506,Groundnut,500,Standard,58.42,2026-07-09,2026-08-17,4.9,71
+B077,Prime Agro Foods,Distributor,"Nashik, Maharashtra",19.8521,73.683,Rice,300,Standard,50.17,2026-07-17,2026-08-14,4.1,75
+B078,Green Valley Foods Pvt Ltd,Supermarket Chain,"Chandigarh, Punjab",30.6973,76.7244,Brinjal,3000,Grade A,42.79,2026-07-16,2026-08-10,5,97
+B079,Om Agro Industries,Wholesaler,"Mysuru, Karnataka",12.3359,76.7512,Cauliflower,500,Organic Certified,28.48,2026-07-02,2026-07-11,3.3,53
+B080,United Fresh Produce Co.,Processor,"Coimbatore, Tamil Nadu",10.9105,76.9651,Turmeric,500,Grade B,22.88,2026-08-09,2026-09-09,4,65
+B081,Metro Commodities,Distributor,"Hyderabad, Telangana",17.3047,78.5281,Cauliflower,1000,Organic Certified,15.42,2026-07-30,2026-08-24,4.2,60
+B082,Om Wholesale Mart,Processor,"Ludhiana, Punjab",30.8407,75.9959,Sugarcane,2500,Premium,23.96,2026-07-25,2026-08-31,2.8,74
+B083,Vishnu Fresh Produce Co.,Distributor,"Lucknow, Uttar Pradesh",26.9945,80.8848,Groundnut,1000,Grade A,40.47,2026-07-04,2026-08-18,4.4,68
+B084,Deccan Supermart,Retailer,"Surat, Gujarat",21.2608,72.7468,Soybean,5000,Premium,45.5,2026-07-09,2026-07-22,4.8,91
+B085,Prime Traders,Distributor,"Indore, Madhya Pradesh",22.7893,75.7347,Chilli,1500,Organic Certified,33.7,2026-07-13,2026-07-28,4.5,73
+B086,Star Farm Fresh Pvt Ltd,Processor,"Chennai, Tamil Nadu",13.0098,80.3681,Brinjal,1000,Organic Certified,54.17,2026-07-08,2026-08-13,4.9,59
+B087,Deccan Exports,Supermarket Chain,"Ranchi, Jharkhand",23.3964,85.2788,Carrot,1500,Grade A,50.58,2026-07-01,2026-07-24,3.8,79
+B088,Fresh Distributors,Supermarket Chain,"Vijayawada, Andhra Pradesh",16.4348,80.6123,Mango,300,Organic Certified,25.52,2026-07-02,2026-08-13,3.3,89
+B089,Om Distributors,Exporter,"Raipur, Chhattisgarh",21.1921,81.6021,Rice,200,Grade A,28.7,2026-08-01,2026-08-15,2.7,84
+B090,Ganga Agro Industries,Exporter,"Indore, Madhya Pradesh",22.7707,75.9306,Carrot,2000,Export Quality,48.4,2026-07-10,2026-08-12,4.1,81
+B091,Laxmi Agro Industries,Processor,"Mumbai, Maharashtra",19.1331,72.7929,Cauliflower,800,Premium,19.47,2026-07-24,2026-09-03,4.8,91
+B092,Fresh Traders,Exporter,"Jaipur, Rajasthan",26.8193,75.6739,Cauliflower,300,Organic Certified,24.54,2026-08-10,2026-09-24,4.9,53
+B093,Green Valley Exports,Retailer,"Ludhiana, Punjab",30.8126,75.9562,Carrot,800,Export Quality,24.72,2026-07-15,2026-08-12,4.4,100
+B094,Laxmi Traders,Processor,"Hyderabad, Telangana",17.5313,78.4988,Maize,300,Organic Certified,53.99,2026-07-09,2026-07-16,3.4,100
+B095,Golden Processing Ltd,Processor,"Bengaluru, Karnataka",12.8739,77.4603,Cabbage,3000,Grade A,48.55,2026-07-31,2026-09-04,4.4,82
+B096,Vishnu Agro Foods,Exporter,"Guwahati, Assam",26.061,91.7707,Okra,1000,Standard,43.95,2026-07-02,2026-07-12,5,75
+B097,Royal Distributors,Wholesaler,"Bhopal, Madhya Pradesh",23.3236,77.3957,Potato,1500,Export Quality,21.68,2026-07-09,2026-08-02,4.1,87
+B098,Green Valley Agro Industries,Distributor,"Guwahati, Assam",26.083,91.7379,Cabbage,300,Organic Certified,20.15,2026-08-05,2026-08-25,3.6,64
+B099,Prime Agro Industries,Exporter,"Ranchi, Jharkhand",23.2226,85.2876,Sugarcane,1500,Grade B,45.91,2026-07-31,2026-08-11,2.7,55
+B100,Krishna AgriTrade,Supermarket Chain,"Indore, Madhya Pradesh",22.8131,75.8746,Turmeric,3000,Export Quality,29.83,2026-07-08,2026-08-10,3.4,92
